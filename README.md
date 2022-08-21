@@ -1,6 +1,6 @@
-# CUSS-Net
+# UG-Net
 
-The codes for the work "CUSS-Net： A Cascaded Unsupervised-based Strategy and Supervised Network for Biomedical Image Diagnosis and Segmentation".
+The codes for the work "UG-Net: A Simple Unsupervised-Guided Network for Biomedical Image Discrimination and Diagnosis".
 
 Requirements
 
