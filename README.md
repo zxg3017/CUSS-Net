@@ -1,6 +1,6 @@
-# UG-Net
+# CUSS-Net
 
-The codes for the work  of UG-Net .
+The codes for the work  of CUSS-Net.
 
 Requirements
 
