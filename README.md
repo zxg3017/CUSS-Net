@@ -1,6 +1,6 @@
 # UG-Net
 
-The codes for the work "UG-Net: A Simple Unsupervised-Guided Network for Biomedical Image Discrimination and Diagnosis".
+The codes for the work  of UG-Net .
 
 Requirements
 
